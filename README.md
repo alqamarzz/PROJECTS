@@ -1,4 +1,4 @@
-1) This is my first project which is snake water gun game. I it made using just if and else.
+1) This is my first project which is snake water gun game. I made it using just if and else.
 
 
 
